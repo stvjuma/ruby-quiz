@@ -1,0 +1,25 @@
+---
+name: 'Test Quiz'
+summary: |
+   -----------------------------------------------------------------------------
+   
+    Please answer all questions as completely as you can. Some questions have
+    more than one answer. The quiz will keep asking until you have entered the
+    correct amount of responses. 
+        * For each question enter the label (a, b, c , d ...) next to the question
+          as your answer.
+          
+        * You can separate multiple answers by entering
+          the values as a comma separated list e.g. a, b, c, d 
+          
+        * Alternatively you can also enter a space separated list e.g. a b c d. 
+    
+    ----------------------------------------------------------------------------
+questions:
+- 'Which one came firs, the chicken or the egg?':
+   options:
+   - Chicken
+   - Egg
+   - Both
+
+    

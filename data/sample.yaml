@@ -1,0 +1,56 @@
+---
+name: 'Sample Quiz'
+summary: |
+   -----------------------------------------------------------------------------
+   
+    Please answer all questions as completely as you can. Some questions have
+    more than one answer. The quiz will keep asking until you have entered the
+    correct amount of responses. 
+        * For each question enter the label (a, b, c , d ...) next to the question
+          as your answer.
+          
+        * You can separate multiple answers by entering
+          the values as a comma separated list e.g. a, b, c, d 
+          
+        * Alternatively you can also enter a space separated list e.g. a b c d. 
+    
+    ----------------------------------------------------------------------------
+questions:
+- 'What is the capital of France?':
+   options:
+   - Berlin
+   - London
+   - Paris
+   answers: 
+   - Paris
+- 'Which of the following are days of the week?':
+    options:
+    - Monday
+    - Tuesday
+    - August
+    - September
+    answers:
+    - Monday
+    - Tuesday
+- 'What is the value of 3 + 6 * 2?':
+    options:
+    - 18
+    - 15
+    - 0
+    - -1
+    answers:
+    - 15
+- 'How many planets are there in the solar system?':
+    options:
+    - 9
+    - 8
+    - 5
+    answers:
+    - 8
+- 'Where is Edinburgh Located?':
+    options:
+    - London
+    - England
+    - New York
+
+    
