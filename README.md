@@ -6,8 +6,7 @@ version reported as
         * 'ruby 2.0.0p645 (2015-04-13 revision 50299) [universal.x86_64-darwin15]'
 
 To answer the questions:
-    The quiz will keep asking until you have entered the
-    correct amount of responses. 
+        *The quiz will keep asking until you have entered the correct amount of responses. 
         * For each question enter the label (a, b, c , d ...) next to the question
           as your answer.
           
