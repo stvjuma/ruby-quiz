@@ -18,6 +18,7 @@ The quiz will keep asking until you have entered the correct amount of responses
 A sample YAML file is provided in the data/sample.yaml location. You can execute
 the program by changing directory to the main 'quiz' folder and executing the 
 command : 
+
     * ruby lib/main.rb
         - This will execute the default configured quiz which is data/sample.yaml
         
