@@ -26,7 +26,7 @@ If you wish to provide your own quiz, you can add it to the data folder and exec
 the quiz with the command
 
     * ruby lib/main.rb 'myquiz'
-        - This will execute the quize at data/myquiz.yaml
+        - This will execute the quiz at data/myquiz.yaml
         
 The test for the program are available in 'tests/test_quiz.rb', you can execute the 
 tests by executing
